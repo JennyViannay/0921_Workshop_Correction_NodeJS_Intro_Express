@@ -16,11 +16,9 @@ npm install
 npm start
 ```
 
-## Run tests
+## Video
 
-```sh
-npm run test
-```
+[@Video-Correction](https://jmp.sh/vWhRABY)
 
 ## Author
 
